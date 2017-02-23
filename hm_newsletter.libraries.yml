@@ -5,6 +5,7 @@ base:
     'js/hm_newsletter.js': {}
   dependencies:
     - core/drupalSettings
+    - core/jquery.once
   css:
     theme:
       'css/hm_newsletter.css': {}
